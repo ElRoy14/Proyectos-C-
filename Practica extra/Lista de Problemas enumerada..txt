@@ -1,0 +1,94 @@
+«1 - Dados 3 números donde el primero y el último son límites de un intervalo, indicar si el tercero pertenece a dicho intervalo.
+
+«2- Ingresar una frase no mas de 20 caracteres y mostrar cuantas vocales tiene.
+
+«3 - Programa que realice la sucesion fibonacci de los numeros del 1 hasta un numero ingresado por el usuario.
+
+«4 - Realizar programa en el que el ordenador “piensa” en un número al azar entre 1 y 50.  El usuario ha de adivinarlo en 5 oportunidades. El ordenador señalará si es mayor o menor. 
+
+«5 - Crea un programa en C# que solicite al usuario 5 números enteros y muestre en pantalla las siguientes estadísticas matemáticas:
+
+La suma de los 5 números
+La media aritmética
+El número máximo
+El número mínimo
+
+«6 - Escriba un programa en C# que solicite un símbolo y un ancho que utilizará para dibujar el cuadrado hueco de ese ancho y alto.
+
+Utilice el símbolo para dibujar el cuadrado hueco, el alto será el mismo que el ancho.
+
+Entrada
+1
+5
+Salida
+11111
+1   1
+1   1
+1   1
+11111
+
+«7 - Cree un programa en C# que muestre los números hexadecimales del 0 al 255. En 16 filas con 16 números en cada una.
+
+«8 -  Programa que muestra el día que será mañana. El usuario debe de introducir el dia, el mes y el año.   Ex: 31/12/08  ->  01/01/09 
+
+«9 - Programa en el que el ordenador lanza 50 veces un dado y cuenta cuantas veces sale el nº 1.
+
+«10 - Escriba instrucciones para colocar el texto “vacío” en cada uno de los cuadros del tablero
+de ajedrez. Usando un array bidimensional.
+
+«11 - Calcular la hipotenusa de un triangulo rectangulo y luego dibuje le triangulo en consola. El usuario debe introducir el valor de los catetos.
+
+«12 - Tienes una tienda en la vida real con 30 animales y as pensado en crear una aplicación que un usuario pueda escribir en consola el animal que desea comprarte y si se encuentra que imprima en consola "El animal si se encuentra" (Los 30 animales pueden ser los que quieras).
+
+Ojo: Solo puedes crear un FOR y un IF (obligatoriamente tiene que usarse esos 2)
+
+«13 - Realizar   un  programa  que   calcule   e  imprima   la   suma   de  los   múltiplos  de  5 comprendidos entra dos valores a y b .El programa no permitirá Introducir valoresnegativos para a y b, y verificara que a es menor que b. Si a es mayor que b,intercambiara estos valores.
+
+«14 - Se ingresa por teclado la cantidad de agua caida, en mílimetros día a día durante un mes.Se pide determinar el día de mayor lluvia, el de menor y el promedio.
+
+«15 - Programa para calcular Potencias, voltajes y corrientes.      P = V * I
+
+«16 - Cree un programa en C# que solicite 5 números enteros al usuario para almacenarlos en una matriz de números enteros. Después deberá implementar una función llamada Sumar que acepte que parámetro un array de enteros. Por último muestre el resultado en pantalla.
+
+«17 - Cree un programa en C# que solicite al usuario su nombre y su edad. Debe almacenarlos en una estructura de datos struct y luego saludar al usuario utilizando su nombre.
+
+Entrada
+Juan
+20
+Salida
+¡Hola, Juan!
+
+«18 - Escriba un programa en C# que solicite al usuario las notas de 10 alumnos divididos en 2 grupos de 5 alumnos en cada uno. Deberás almacenarlos en una matriz bidimensional y mostrar la medía aritmética de cada grupo de alumnos.
+
+Salida
+El promedio para el grupo 1 es 4,8
+El promedio para el grupo 2 es 4,7
+
+«19 - Crea un programa en C# que dibuje una circunferencia en pantalla de 360. Deberá calcular los radianes teniendo en cuenta la formula de más abajo. Dibuje la circunferencia con una separación de 5 posiciones entre cada punto, utilice Console.SetCursorPosition. Para calcular el seno y el coseno puede utilizar las funciones matemáticas Math.Cos y Math.Sin.
+
+La fórmula que debería utilizar es:
+
+radianes = angulo * PI / 180
+
+Entrada
+ 
+Salida
+                               XXXXXXXX
+                             XX        XX
+                            XX          XX
+                            X            X
+                           X              X
+                           X              X
+                           X              X
+                           X              X
+                           X              XX
+                           X              X
+                           X              X
+                           X              X
+                            X            X
+                            XX          XX
+                             XXX       XX
+                               XXXXXXXX
+                                   X
+
+20 - Crear una calculadora que haga las funciones de suma, resta, multiplicacion y division con interfaz grafica.

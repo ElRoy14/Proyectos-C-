@@ -1,0 +1,15 @@
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\bin\Debug\net6.0\Practica extra.exe
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\bin\Debug\net6.0\Practica extra.deps.json
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\bin\Debug\net6.0\Practica extra.runtimeconfig.json
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\bin\Debug\net6.0\Practica extra.dll
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\bin\Debug\net6.0\Practica extra.pdb
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.csproj.AssemblyReference.cache
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.AssemblyInfoInputs.cache
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.AssemblyInfo.cs
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.csproj.CoreCompileInputs.cache
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.dll
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\refint\Practica extra.dll
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.pdb
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\Practica extra.genruntimeconfig.cache
+C:\Users\RONAL\Desktop\Programas a Realizar C#\Practica extra\obj\Debug\net6.0\ref\Practica extra.dll
